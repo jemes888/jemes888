@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Jemes Mondol
 #### I am a WordPess, Elementor , Shopify, Webflow and Mailchimp Expert
-![I am a WordPess, Elementor , Shopify, Webflow and Mailchimp Expert](https://i.postimg.cc/sxdZMxy4/1jemes-mondol.png)
+![I am a WordPess, Elementor , Shopify, Webflow and Mailchimp Expert]
 
 Hello!
 
